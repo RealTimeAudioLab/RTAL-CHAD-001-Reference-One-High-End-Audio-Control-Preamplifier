@@ -13,10 +13,12 @@
 
 # Hero Image
 
-```markdown
-![RTAL Reference One](images/front.jpg)
-```
+<p align="center">
+<img src="images/front.jpg" width="900">
 
+   *Figure 1 – High End PreAmp Frontview*
+
+</p>
 ---
 
 # Engineering Heritage
@@ -62,22 +64,21 @@ This project was created to answer exactly that question.
 
 ## Front View
 
-```markdown
-![Front](images/front.jpg)
-```
+<p align="center">
+<img src="images/front.jpg" width="900">
+</p>
 
 ## Internal Construction
 
-```markdown
-![Inside](images/inside_01.jpg)
-```
+<p align="center">
+<img src="images/inside_1.jpg" width="900">
+</p>
 
 ## Internal Detail
 
-```markdown
-![Inside Detail](images/inside_02.jpg)
-```
-
+<p align="center">
+<img src="images/inside_2.jpg" width="900">
+</p>
 ---
 
 # System Architecture
@@ -122,17 +123,9 @@ RTAL-Reference-One/
 ├── README.md
 ├── LICENSE
 ├── images/
-│   ├── front.jpg
-│   ├── inside_01.jpg
-│   ├── inside_02.jpg
-│   ├── pcb_top.jpg
-│   └── pcb_bottom.jpg
 ├── schematics/
 ├── pcb/
 ├── docs/
-│   ├── DesignStudy.pdf
-│   ├── EngineeringNotes.pdf
-│   └── UserManual.pdf
 └── hardware/
 ```
 
