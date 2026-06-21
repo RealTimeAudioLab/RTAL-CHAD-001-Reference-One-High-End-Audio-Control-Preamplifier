@@ -123,10 +123,10 @@ Goals:
 <img src="images/inside_2.jpg" width="900">
 </p>
 
-## PCB (Top)
+## PCB Assembly
 
 <p align="center">
-<img src="images/pcb_top.jpg" width="900">
+<img src="pcb/pcb_assembly.jpg" width="900">
 </p>
 
 ------------------------------------------------------------------------
